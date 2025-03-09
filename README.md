@@ -6,7 +6,7 @@ The weather app is a design implementation of [Weather App](https://youtu.be/CzR
 
 
 ## Download Apk 🎥
-![Flutter Weather App Demo](https://github.com/AbdQader/flutter_weather_app/assets/64075836/7cbccfc6-1d2d-4a55-8297-df97ef6ec787)
+[Flutter Weather App ](https://github.com/ammad-sajjad/weatherApp/releases/download/v1.0/weather-app-release.apk)
 
 ---
 
